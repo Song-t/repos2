@@ -6,6 +6,7 @@ public class Hello {
         i += 10;
         System.out.println(i);
         test();
+        System.out.println(11111);
     }
 
     public static void test() {
